@@ -1,1 +1,64 @@
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll
+
+title: 飞出国加拿大
+
+author: 飞出国加拿大
+
+navbar-links:
+  专业服务: "/#services"
+  服务优势: "/#aboutus"
+  移民职业: "/#clients"
+  移民项目: "/#portfolio"
+  联系飞出国: "/contact"
+
+title-img: /assets/img/flyabroad-logo-light-s.png
+
+site-css: "/assets/css/flyabroad.css"
+
+keywords: "加拿大雇主担保移民, 飞出国加拿大雇主担保移民, 飞出国加拿大公司"
+
+mobile-theme-col: "#0085A1"
+navbar-col: "#05172d"
+navbar-text-col: "#fff"
+navbar-border-col: "#05172d"
+
+social-network-links:
+  email: "member@flyabroadvisa.com"
+  github: flyabroad
+  twitter: flyabroad
+
+url-pretty: "flyabroad.ca"
+
+footer-img: "/assets/img/footer-bg.png"
+
+google_analytics: "G-BWR4H3T9X4"
+
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      footer-extra: custom_footer.html
+      nav-short: true
+      share-description: "飞出国，加拿大移民王者归来，加拿大雇主担保直营。专注加拿大移民20年，只为给申请人提供最优加拿大移民途径。"
+      share-img: "/assets/img/flyabroad-logo-light.png"
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
