@@ -161,7 +161,7 @@ flyabroad 自 2003 年开始接触加拿大技术移民，至今已近20年，�
 * <a href="https://pj.flyabroad.ca/posts/fanny/" target="_blank" ref="noopener">谈谈我眼中的－－fly，非常踏实，值得信赖，公平合理，细致入微，充满信心</a>
 * <a href="https://pj.flyabroad.ca/posts/TimHortons/" target="_blank" ref="noopener">[原创]我的移民之路—8个月拿到签证，坦诚，稳重，率真，直爽，可信</a>
 
-<p><a name="au">飞出国澳洲客户评价！</a>：
+<a name="au">飞出国澳洲客户评价！</a>：
 
 2018 年飞出国澳洲客户好评摘选：
         
