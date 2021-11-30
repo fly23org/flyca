@@ -10,7 +10,7 @@ flyabroad 自 2003 年开始接触加拿大技术移民，至今已近20年，�
 
 飞出国从2006年建立第一版仅针对加拿大联邦技术移民的网站，到2009年开始加拿大魁北克项目，到2010年后相继开展澳洲，新西兰，加拿大省提名，到后来的美国EB1，到现在的澳洲 GTI。飞出国一直在与时俱进，同时，飞出国一直都以加拿大为最核心项目，直到今天。
 
-十多年间，飞出国创造过很多辉煌，但也有无数失败。获得无数赞誉，也遭受过不少攻击。
+十多年间，飞出国创造过很多辉煌，获得无数赞誉。
 
 飞出国见证了无数申请人在飞出国帮助下成功移民的喜悦，同时，也因为政策的不可控性，飞出国没有能力帮助所有人都成功申请。
 
@@ -18,7 +18,7 @@ flyabroad 自 2003 年开始接触加拿大技术移民，至今已近20年，�
 
 飞出国是一家有坚守的企业，当人们在做加拿大商业移民时，当大家在做美国投资移民时，当大家在做购房移民时，飞出国依然将最核心的力量投入到技术移民项目上，因为技术移民一直是最经济，最便捷，申请流程也相对简单的最有价值的移民项目。
 
-飞出国，有不足，但有一点从未改变，那就是真正从内心为申请人考虑，从申请人角度出发，把申请人当朋友，并在发现自己的问题后不断改进。
+飞出国一直在改进，而有一点从未改变，那就是真正从内心为申请人考虑，从申请人角度出发，把申请人当朋友，并在发现自己的问题后不断改进。
 
 飞出国，是与时俱进的团队，十多年间将自己的团队从最初的只专注加拿大，到现在精通加美澳新，并对其他所有项目都有所了解。而且随着政策和申请人群的变化，不断寻找下一个最经济，最便捷的移民项目。
 
@@ -36,11 +36,11 @@ flyabroad 自 2003 年开始接触加拿大技术移民，至今已近20年，�
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
       <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/wxgh_flyabroad.png" alt="飞出国移民微信" />
-      <div style="text-align:center; font-weight:bold;">飞出国移民微信</div>
+      <div style="text-align:center; font-weight:bold;">飞出国加拿大微信</div>
     </div>
     <div class="col-md-auto">
       <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/weibo_flyabroad.jpg" alt="飞出国微信" />
-      <div style="text-align:center; font-weight:bold;">飞出国微博</div>
+      <div style="text-align:center; font-weight:bold;">飞出国加拿大微博</div>
     </div>
   </div>
 </div>
